@@ -45,7 +45,7 @@ Make sure you have the following installed:
 Installation
 
 	1.	Clone the Repository:
-!git clone https://github.com/your_username/detectron2-mask-rcnn-demo.git
+!git clone https://github.com/elprofessor-15/detectron2-mask-rcnn-demo.git
 cd detectron2-mask-rcnn-demo
 
 2.	Install Dependencies:
